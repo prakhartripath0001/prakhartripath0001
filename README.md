@@ -8,7 +8,7 @@ Email Me 👉 ✉️ **gurawliprakhar@gmail.com** For Collaboration/Project or A
 - 👯 **I'm looking to collaborate on:** Java Backend, Spring Boot, and Full-Stack projects
 - 🤔 **I'm looking for help with:** Scaling backend architecture and advanced system design
 - 💬 **Ask me about:** Java, Spring Boot, REST APIs, Microservices, MySQL, Redis, Docker, and Git
-- 📫 **How to reach me:** Tripathi.prakhar@outlook.com
+- 📫 **How to reach me:** gurawliprakhar@gmail.com
 - ⚡ **Fun fact:** Passionate about backend engineering, clean architecture, and building scalable software from the ground up
 
 [![](https://visitcount.itsvg.in/api?id=prakhartripath0001&icon=0&color=0)](https://visitcount.itsvg.in)
