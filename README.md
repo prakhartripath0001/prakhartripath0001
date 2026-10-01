@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Prakhar Tripathi
 **A passionate Java Backend Developer || Spring Boot Enthusiast || Full-Stack Developer from India**
 
-Email Me 👉 ✉️ **Tripathi.prakhar@outlook.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **gurawliprakhar@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I'm currently working on:** Java Backend, Spring Boot, and Full-Stack projects
 - 🌱 **I'm currently learning:** Data Structures & Algorithms, System Design, Database Design, and writing production-ready backend services with Spring Boot
